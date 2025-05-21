@@ -61,7 +61,7 @@
 
 
 
-// app/components/FileUpload.tsx
+// app/components/FileUpload.tsx adding this as extra
 "use client";
 
 import { useEffect } from "react";
